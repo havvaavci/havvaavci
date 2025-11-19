@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Havva Avcı
 
-<!--
-**havvaavci/havvaavci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Software Tester** focused on both **Manual Testing** and **Test Automation**.  
+I enjoy improving product quality through structured testing, clear documentation, and reliable automation frameworks.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java  
+- Selenium  
+- TestNG  
+- Postman  
+- Git & GitHub  
+- Maven  
+- SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I’m Working On
+- Enhancing my Test Automation skills  
+- Building stronger frameworks  
+- Improving API testing knowledge  
+
+## 📫 Contact
+📩 havvabuyukyalcin@gmail.com  
+🌍 Based in France
+
