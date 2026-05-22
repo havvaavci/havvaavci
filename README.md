@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Havva Avcı
+# 👋 Hi, I'm Havva Avcı  
+![Profile views](https://komarev.com/ghpvc/?username=havvaavci)
+
 
 I am a passionate **Software Tester** focusing on Manual Testing and Test Automation.  
 I enjoy improving software quality through structured testing, clear documentation, and reliable automation frameworks.
