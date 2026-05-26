@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Havva Avcı  
 ![Profile views](https://komarev.com/ghpvc/?username=havvaavci)
 
-
-I am a passionate **Software Tester** focusing on Manual Testing and Test Automation.  
-I enjoy improving software quality through structured testing, clear documentation, and reliable automation frameworks.
+QA Automation Engineer focused on building reliable and scalable test automation solutions across web, mobile, and API layers.  
+I design and implement automation frameworks using Playwright and Selenium, and integrate them into CI/CD pipelines to support fast and high-quality software delivery.
 
 ---
 
@@ -13,52 +12,48 @@ I enjoy improving software quality through structured testing, clear documentati
 
 ## 🇬🇧 About Me
 
-I am a dedicated **Software Tester** with experience in both **Manual Testing** and **Test Automation**.  
-I love improving product quality, designing efficient test cases, and building stable automation frameworks.
+QA Engineer with hands-on experience in **Manual Testing, Web & Mobile Automation, API Testing, and Performance Testing**.  
+I focus on improving product quality through structured testing approaches, well-designed test cases, and maintainable automation frameworks.
 
-### 🔧 Technologies & Tools
-- Java  
-- Selenium  
-- TestNG  
-- Maven  
-- Git & GitHub  
-- SQL  
-- Postman (API)
+### 🔧 Automation
+- Playwright (TypeScript) · Page Object Model · Parallel execution  
+- Selenium (Java) · TestNG · JUnit · Cucumber (BDD)  
+- Appium (Mobile testing)
 
-### 📌 What I’m Working On
-- Improving my automation framework skills  
-- Enhancing API testing knowledge  
-- Continuous learning and career development  
+### 📡 API & Performance
+- Rest Assured · Postman · JMeter  
+
+### ⚙️ CI/CD & Tools
+- GitHub Actions · Jenkins  
+- Git · GitHub · SQL  
 
 ### 📫 Contact
 - 📧 havvabuyukyalcin@gmail.com  
-- 📍 Based in France  
+- 📍 Lyon, France  
 
 </td>
 <td width="50%" valign="top">
 
 ## 🇫🇷 À propos de moi
 
-Je suis une **Testeur / Analyste QA** passionnée, spécialisée dans les tests manuels et l’automatisation des tests.  
-J’aime garantir la qualité, améliorer continuellement les processus et contribuer à des produits plus fiables.
+Ingénieure QA avec expérience en **tests manuels, automatisation Web & mobile, tests API et tests de performance**.  
+Je me concentre sur l'amélioration de la qualité des produits grâce à des stratégies de test structurées et des frameworks d'automatisation fiables et maintenables.
 
-### 🔧 Compétences & Outils
-- Java  
-- Selenium  
-- TestNG  
-- Maven  
-- Git & GitHub  
-- SQL  
-- Postman (Tests API)
+### 🔧 Automatisation
+- Playwright (TypeScript) · Page Object Model · Exécution parallèle  
+- Selenium (Java) · TestNG · JUnit · Cucumber (BDD)  
+- Appium (Tests mobiles)
 
-### 📌 Ce sur quoi je travaille actuellement
-- Amélioration de mes compétences en automatisation  
-- Renforcement de mes connaissances en tests API  
-- Développement professionnel continu  
+### 📡 API & Performance
+- Rest Assured · Postman · JMeter  
+
+### ⚙️ CI/CD & Outils
+- GitHub Actions · Jenkins  
+- Git · GitHub · SQL  
 
 ### 📫 Contact
 - 📧 havvabuyukyalcin@gmail.com  
-- 📍 Basée en France  
+- 📍 Lyon, France  
 
 </td>
 </tr>
