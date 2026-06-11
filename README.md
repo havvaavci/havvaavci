@@ -2,7 +2,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=havvaavci)
 
 ### 🏅 Certification
-![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester_(CTFL)-00599c?style=for-the-badge&logo=istqb&logoColor=white)
+[![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester_CTFL-00599c?style=flat&logoColor=white)](https://app.diplomasafe.com/en-US/s/a875abea/8a04d4be)
+
 
 <p style="font-style: italic; font-size: 14px;">QA Automation Engineer with experience in web and API test automation, building frameworks with Playwright and Selenium and integrating them into CI/CD pipelines.</p>
 
